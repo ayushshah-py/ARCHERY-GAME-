@@ -1,11 +1,3 @@
-//Thanks for visiting my code
-//Created By : Adnan Zawad Toky
-//Idea & Sounds : Archery Black
-//Version : 3.0.1
-//If you enjoy playing this game, don't forget to appreciate
-//If you have any idea or feedback, please comment...
-
-
 window.onload = function(){
 alert("Thanks everyone (specially SoloLearn) for making my code as Code Of The Day...\n👍👍👍")
 
