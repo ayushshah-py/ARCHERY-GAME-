@@ -14,7 +14,7 @@ An interactive archery game built using HTML, CSS, and JavaScript. The game chal
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/archery-game.git
+   git clone https://github.com/ayushshah-py/ARCHERY-GAME-.git
    ```
 2. Navigate to the project directory:
    ```sh
